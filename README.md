@@ -86,3 +86,4 @@ Edit `config.template` in `prospect-data.json`:
 ---
 
 **Test commit:** Verifying preview → production workflow (Feb 19, 2026)
+<!-- Test webhook trigger -->
