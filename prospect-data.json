@@ -1,0 +1,108 @@
+{
+  "domain": "smileangels.com",
+  "brand": {
+    "logo_url": "/logo-placeholder.svg",
+    "primary_color": "#2c5f82",
+    "secondary_color": "#e8f4f8",
+    "accent_color": "#d4af37",
+    "font_family": "Inter, sans-serif",
+    "favicon_url": ""
+  },
+  "content": {
+    "company_name": "Smile Angels of Beverly Hills",
+    "tagline": "Premier Holistic Dentist in Beverly Hills",
+    "tagline_enhanced": "Premier Holistic Dentist in Beverly Hills",
+    "value_prop": "Subheadline here",
+    "services": [
+      {
+        "name": "Cosmetic Dentistry",
+        "description": "Veneers, bonding, and whitening treatments for stunning smiles."
+      },
+      {
+        "name": "Holistic Dentistry",
+        "description": "Metal-free, biocompatible treatments for whole-body wellness."
+      },
+      {
+        "name": "TMJ Treatment",
+        "description": "Advanced diagnosis and relief for jaw pain and dysfunction."
+      },
+      {
+        "name": "Dental Implants",
+        "description": "98% success rate with 25+ years of expertise."
+      },
+      {
+        "name": "Smile Makeovers",
+        "description": "Complete transformations combining artistry and precision."
+      },
+      {
+        "name": "Emergency Care",
+        "description": "Same-day appointments with personalized attention."
+      }
+    ],
+    "about_snippet": "Dr. Bruce Vafa leads Smile Angels of Beverly Hills with 35+ years of clinical excellence, combining holistic principles with cosmetic artistry.",
+    "cta_text": "Book Consultation",
+    "cta_secondary_text": "Learn More",
+    "phone": "(555) 123-4567",
+    "email": "contact@smileangels.com",
+    "address": "Beverly Hills, CA 90210",
+    "hours": "Mon-Fri: 9am-6pm | Sat: By Appointment",
+    "social_links": {},
+    "testimonials": [
+      {
+        "quote": "Dr. Vafa is not just skilled - he is personable, caring, and truly exceptional.",
+        "name": "Jordan",
+        "role": "Google Review"
+      },
+      {
+        "quote": "Been bringing my family for 10 years. The best touch and genuine care.",
+        "name": "Jorge L.",
+        "role": "Google Review"
+      },
+      {
+        "quote": "They made me feel comfortable despite my dental anxiety. Patient and kind.",
+        "name": "Maureen W.",
+        "role": "Google Review"
+      }
+    ],
+    "stats": [
+      {
+        "value": "35+",
+        "label": "Years of Excellence"
+      },
+      {
+        "value": "300+",
+        "label": "Five-Star Reviews"
+      },
+      {
+        "value": "98%",
+        "label": "Implant Success Rate"
+      },
+      {
+        "value": "100%",
+        "label": "Personalized Care"
+      }
+    ],
+    "team": [
+      {
+        "name": "Dr. Bruce Vafa",
+        "role": "DDS, MS - Holistic & Cosmetic Dentist",
+        "credentials": "35+ years experience | Beverly Hills"
+      }
+    ],
+    "meta_description": "Smile Angels of Beverly Hills - Dr. Bruce Vafa | 35 years of holistic & cosmetic dental excellence."
+  },
+  "config": {
+    "template": "trust-authority",
+    "industry": "dental",
+    "niche": "holistic-cosmetic",
+    "animation_intensity": "subtle",
+    "sections": [
+      "hero",
+      "stats",
+      "services",
+      "testimonials",
+      "cta"
+    ],
+    "dark_mode": false
+  }
+}

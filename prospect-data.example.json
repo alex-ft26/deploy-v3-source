@@ -1,0 +1,93 @@
+{
+  "domain": "acmebank.com",
+  "brand": {
+    "logo_url": "https://acmebank.com/logo.svg",
+    "primary_color": "#1a365d",
+    "secondary_color": "#e2e8f0",
+    "accent_color": "#38a169",
+    "font_family": "Inter, sans-serif",
+    "favicon_url": "https://acmebank.com/favicon.ico"
+  },
+  "content": {
+    "company_name": "Acme Bank",
+    "tagline": "Banking Made Simple",
+    "tagline_enhanced": "Modern Banking That Works as Hard as You Do",
+    "value_prop": "Experience seamless digital banking with personalized service. From business loans to wealth management, we make your financial goals achievable.",
+    "services": [
+      {
+        "name": "Personal Banking",
+        "description": "Checking, savings, and money market accounts with competitive rates and zero hidden fees."
+      },
+      {
+        "name": "Business Loans",
+        "description": "Flexible lending solutions for businesses of all sizes, from startups to established enterprises."
+      },
+      {
+        "name": "Wealth Management",
+        "description": "Personalized investment strategies and financial planning to grow and protect your assets."
+      },
+      {
+        "name": "Mortgage Services",
+        "description": "Competitive mortgage rates with a streamlined application process. Home ownership made easy."
+      },
+      {
+        "name": "Digital Banking",
+        "description": "24/7 online and mobile banking with instant transfers, bill pay, and real-time alerts."
+      },
+      {
+        "name": "Commercial Real Estate",
+        "description": "Specialized financing for commercial properties, including acquisition, development, and refinancing."
+      }
+    ],
+    "about_snippet": "Founded in 1952, Acme Bank has been serving the Springfield community for over 70 years. What started as a single branch on Main Street has grown into a trusted institution with 12 locations across the region. We believe banking should be personal, transparent, and built on trust.",
+    "cta_text": "Open an Account",
+    "cta_secondary_text": "Talk to an Advisor",
+    "phone": "(555) 123-4567",
+    "email": "hello@acmebank.com",
+    "address": "100 Main Street, Springfield, IL 62701",
+    "hours": "Mon-Fri: 9am-5pm | Sat: 9am-12pm",
+    "social_links": {
+      "linkedin": "https://linkedin.com/company/acmebank",
+      "facebook": "https://facebook.com/acmebank",
+      "twitter": "https://twitter.com/acmebank"
+    },
+    "testimonials": [
+      {
+        "quote": "Acme Bank made our business expansion possible. Their team understood our vision and structured the perfect loan package.",
+        "name": "Sarah Chen",
+        "role": "CEO, TechStart Solutions"
+      },
+      {
+        "quote": "I've banked here for 20 years. The personal service is unmatched — they know my name every time I walk in.",
+        "name": "Robert Williams",
+        "role": "Local Business Owner"
+      },
+      {
+        "quote": "Their wealth management team helped us plan for retirement with confidence. Couldn't recommend them more highly.",
+        "name": "Maria & David Garcia",
+        "role": "Clients since 2015"
+      }
+    ],
+    "stats": [
+      { "value": "70+", "label": "Years of Service" },
+      { "value": "12", "label": "Branch Locations" },
+      { "value": "50000+", "label": "Customers Served" },
+      { "value": "98%", "label": "Customer Satisfaction" }
+    ],
+    "team": [
+      { "name": "James Mitchell", "role": "President & CEO" },
+      { "name": "Linda Park", "role": "Chief Financial Officer" },
+      { "name": "Marcus Johnson", "role": "VP of Lending" },
+      { "name": "Emily Rodriguez", "role": "VP of Wealth Management" }
+    ],
+    "meta_description": "Acme Bank — Modern banking with personal service. Checking, savings, business loans, wealth management, and more. Serving Springfield since 1952."
+  },
+  "config": {
+    "template": "trust-authority",
+    "industry": "banking",
+    "niche": "community-banking",
+    "animation_intensity": "subtle",
+    "sections": ["hero", "stats", "services", "testimonials", "cta"],
+    "dark_mode": false
+  }
+}
