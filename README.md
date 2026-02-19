@@ -82,3 +82,5 @@ Edit `config.template` in `prospect-data.json`:
 - AI tokens per site: ~270 (copy generation only)
 - Vercel free tier: 100 deploys/day
 - Total cost: $0.007-0.02 per site
+
+**Git workflow test:** Verified automatic deployments (2026-02-19)
