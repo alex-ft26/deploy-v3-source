@@ -83,3 +83,15 @@ Edit `config.template` in `prospect-data.json`:
 - Vercel free tier: 100 deploys/day
 - Total cost: $0.007-0.02 per site
 <!-- Webhook test 1771544945 -->
+
+---
+
+## GitHub Actions Automation
+
+✅ **Automated deployments are now active!**
+
+- Push to `main` → Production deployment
+- Open PR → Preview deployment with URL comment
+- No manual intervention needed
+
+Last test: $(date -u +"%Y-%m-%d %H:%M UTC")
