@@ -35,7 +35,7 @@ export default function LifestyleVisualHome({ data }: { data: ProspectData }) {
             className="px-12 py-4 text-lg"
             style={{ backgroundColor: brand.primary_color }}
           >
-            {content.cta_text || "Schedule Your Consultation"}
+            {content.cta_text || "TEST DEPLOYMENT ACTIVE"}
           </ShinyButton>
         </div>
       </section>
@@ -245,7 +245,7 @@ export default function LifestyleVisualHome({ data }: { data: ProspectData }) {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <ShinyButton className="bg-white text-gray-900 px-12 py-4 text-lg">
-              {content.cta_text || "Schedule Your Consultation"}
+              {content.cta_text || "TEST DEPLOYMENT ACTIVE"}
             </ShinyButton>
             {content.cta_secondary_text && (
               <button className="px-12 py-4 text-lg border-2 border-white text-white rounded-lg hover:bg-white hover:text-gray-900 transition-all">
